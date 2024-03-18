@@ -64,6 +64,8 @@ Create a Streamlit cloud account if you don't have one by visiting https://strea
 Part 3: Creating the most basic chatbot
 Open the main.py and add the following code:
 
+Hi I'm just adding a comment in here
+
 # 1. Importing necessary libraries
 import streamlit as st  # Import the Streamlit library
 import random  # Import the random library
